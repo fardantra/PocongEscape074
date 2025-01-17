@@ -11,6 +11,7 @@ TagManager:
   - Obstacle
   - Uang
   - Obstacles
+  - Background
   layers:
   - Default
   - TransparentFX
